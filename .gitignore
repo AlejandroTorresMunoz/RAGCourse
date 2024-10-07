@@ -5,3 +5,4 @@
 ./pyvenv.cfg
 ./data
 .gitignore
+.pyvenv.cfg
