@@ -1,6 +1,6 @@
-./Lib/
-./share/
-./Include/
-./Scripts/
+./Lib
+./share
+./Include
+./Scripts
 ./pyvenv.cfg
-./data/
+./data
