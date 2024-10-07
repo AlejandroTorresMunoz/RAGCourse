@@ -1,8 +1,0 @@
-./Lib
-./share
-./Include
-./Scripts
-./pyvenv.cfg
-./data
-.gitignore
-.pyvenv.cfg
