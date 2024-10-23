@@ -4,3 +4,4 @@ The main difference with that course is that the annotations, code and examples 
 
 The course is divided into the following modules : 
 -   *Module 1* : Recap of the basic concepts of LangChain, and introduction to LlamaIndex and RAG techniques, using Llama 3.1 models and DeepLake as store database.
+-   *Module 2*: Apply of advanced techniques of RAG with open-source models.
